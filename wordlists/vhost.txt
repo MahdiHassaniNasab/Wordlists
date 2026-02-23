@@ -1,0 +1,2 @@
+Put your vhost candidates here.
+One host per line.

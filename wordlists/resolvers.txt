@@ -1,0 +1,2 @@
+Put your DNS resolvers here.
+One resolver per line.

@@ -1,0 +1,2 @@
+Put your permutation seed words here.
+One word per line.
